@@ -10,3 +10,6 @@ Finally did awesome optimisations by concatenating, minifying next generation
 JavaScript written using ECMA6 which was converted to this generation
 JavaScript via parser 'babel-eslint' and babel Gulp plugin and also
 compressed images via imagemin and imagemin-pngquant Gulp plugins.
+
+Also, explored Yeoman which will be used for future web development 
+projects.
